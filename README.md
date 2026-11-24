@@ -117,7 +117,7 @@ dve -full64
 Other option:
 dve -full64 &
 A DVE environment will open.
-**## Output**
+## OUTPUT
 
 ## DVE Waveform Verification
 <img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/fc8b6169-6294-46ad-a006-a8cce1105d52" />
